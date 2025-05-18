@@ -17,7 +17,7 @@ languages:
 # To omit the Google Analytics script, put a ~ in place of the G-XXXXXXXXXX below.
 services:
   googleAnalytics:
-    ID: G-XXXXXXXXXX
+    ID: G-MPMYTN521J
 
 baseURL: http://securemycloud.org
 
@@ -37,14 +37,14 @@ params:
     # To omit the startYear, put a ~ in its place.
     ~ startYear: 2025
     presentYear: 2025
-    ~ github:
-    ~   repo: username/repo
+    github:
+      repo: username/repo
     themeColor:
       light: '#ffffff'
       dark: '#101010'
 
-  # author:
-  #   name: securemycloud.org
+  author:
+    name: securemycloud.org
   #   url: https://github.com/agnel123
 
   home:
