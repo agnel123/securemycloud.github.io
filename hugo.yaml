@@ -35,7 +35,7 @@ markup:
 params:
   project:
     # To omit the startYear, put a ~ in its place.
-    startYear: 2025
+    # startYear: 2025
     presentYear: 2025
     github:
       repo: username/repo
@@ -43,9 +43,9 @@ params:
       light: '#ffffff'
       dark: '#101010'
 
-  author:
-    name: securemycloud.org
-    url: https://github.com/agnel123
+  # author:
+  #   name: securemycloud.org
+  #   url: https://github.com/agnel123
 
   home:
     heading: Secure My
