@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Secure My Cloud</title>
-    <link>http://securemycloud.org/docs/</link>
+    <link>securemycloud.org/docs/</link>
     <description>Recent content in Docs on Secure My Cloud</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://securemycloud.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="securemycloud.org/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build Security Controls Effectively</title>
-      <link>http://securemycloud.org/docs/build-security-controls-effectively/</link>
+      <link>securemycloud.org/docs/build-security-controls-effectively/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/build-security-controls-effectively/</guid>
+      <guid>securemycloud.org/docs/build-security-controls-effectively/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity Engineering</title>
-      <link>http://securemycloud.org/docs/identity-engineering/</link>
+      <link>securemycloud.org/docs/identity-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/identity-engineering/</guid>
+      <guid>securemycloud.org/docs/identity-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Overview</title>
-      <link>http://securemycloud.org/docs/overview/</link>
+      <link>securemycloud.org/docs/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/overview/</guid>
+      <guid>securemycloud.org/docs/overview/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;�‍💻 I am an expat working in Singapore as a Go Backend and DevOps Engineer. Feel free to reach out if you find any mistakes or anything that needs to be changed, including spelling or grammar errors. Alternatively, you can create a pull request, open an issue, or &lt;a href=&#34;https://gist.github.com/dumindu/00a0be2d175ed5ff3bc3c17bbf1ca5b6&#34; target=&#34;_blank&#34; &gt;share your awesome ideas in this gist&lt;/a&gt;. Good luck with learning Rust! hello world! you are here again!hello world 2025&amp;quot; are you readY?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understand IAM Policies Better</title>
-      <link>http://securemycloud.org/docs/understand-iam-policies-better/</link>
+      <link>securemycloud.org/docs/understand-iam-policies-better/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/understand-iam-policies-better/</guid>
+      <guid>securemycloud.org/docs/understand-iam-policies-better/</guid>
       <description></description>
     </item>
     <item>
       <title>What is AWS Security</title>
-      <link>http://securemycloud.org/docs/what-is-aws-security/</link>
+      <link>securemycloud.org/docs/what-is-aws-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/what-is-aws-security/</guid>
+      <guid>securemycloud.org/docs/what-is-aws-security/</guid>
       <description></description>
     </item>
     <item>
       <title>What is IAM</title>
-      <link>http://securemycloud.org/docs/what-is-iam/</link>
+      <link>securemycloud.org/docs/what-is-iam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://securemycloud.org/docs/what-is-iam/</guid>
+      <guid>securemycloud.org/docs/what-is-iam/</guid>
       <description>&lt;h2 id=&#34;what-is-iam&#34;&gt;What is IAM&lt;/h2&gt;&#xA;&lt;h2 id=&#34;why-iam-is-needed&#34;&gt;Why IAM is needed&lt;/h2&gt;&#xA;&lt;h2 id=&#34;what-iam-is-not&#34;&gt;What IAM is not&lt;/h2&gt;&#xA;&lt;h2 id=&#34;what-if-iam-is-not-there&#34;&gt;What if IAM is not there&lt;/h2&gt;</description>
     </item>
   </channel>

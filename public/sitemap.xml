@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://securemycloud.org/docs/build-security-controls-effectively/</loc>
+    <loc>securemycloud.org/docs/build-security-controls-effectively/</loc>
   </url><url>
-    <loc>http://securemycloud.org/categories/</loc>
+    <loc>securemycloud.org/categories/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/</loc>
+    <loc>securemycloud.org/docs/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/identity-engineering/</loc>
+    <loc>securemycloud.org/docs/identity-engineering/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/overview/</loc>
+    <loc>securemycloud.org/docs/overview/</loc>
   </url><url>
-    <loc>http://securemycloud.org/</loc>
+    <loc>securemycloud.org/</loc>
   </url><url>
-    <loc>http://securemycloud.org/tags/</loc>
+    <loc>securemycloud.org/tags/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/understand-iam-policies-better/</loc>
+    <loc>securemycloud.org/docs/understand-iam-policies-better/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/what-is-aws-security/</loc>
+    <loc>securemycloud.org/docs/what-is-aws-security/</loc>
   </url><url>
-    <loc>http://securemycloud.org/docs/what-is-iam/</loc>
+    <loc>securemycloud.org/docs/what-is-iam/</loc>
   </url>
 </urlset>
