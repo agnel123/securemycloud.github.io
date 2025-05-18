@@ -48,7 +48,7 @@ params:
     url: https://github.com/agnel123
 
   home:
-    heading: Secure Your
+    heading: Secure My
     headingSegment2: Cloud
     description: This will guide you in securing your cloud.
     getStartedPath: /docs
