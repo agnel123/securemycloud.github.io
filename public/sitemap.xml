@@ -2,28 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/build-security-controls-effectively/</loc>
+    <loc>http://securemycloud.org/docs/build-security-controls-effectively/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://securemycloud.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://securemycloud.org/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/hello-world/</loc>
+    <loc>http://securemycloud.org/docs/identity-engineering/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/identity-engineering/</loc>
+    <loc>http://securemycloud.org/docs/overview/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/modules/</loc>
+    <loc>http://securemycloud.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/overview/</loc>
+    <loc>http://securemycloud.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://securemycloud.org/docs/understand-iam-policies-better/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://securemycloud.org/docs/what-is-aws-security/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/understand-iam-policies-better/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/what-is-aws-security/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/what-is-iam/</loc>
+    <loc>http://securemycloud.org/docs/what-is-iam/</loc>
   </url>
 </urlset>
