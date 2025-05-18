@@ -3,8 +3,7 @@
     - title: Overview
 
 - title: 2025
-  pages:
-    - title: Hello World
+  pages:    
     - title: What is IAM
     - title: What is AWS Security
     - title: Understand IAM Policies Better
