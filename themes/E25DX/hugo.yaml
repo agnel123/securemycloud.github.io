@@ -41,7 +41,7 @@ params:
       light: '#ffffff'
       dark: '#101010'
 
-  ~ author:
+  author:
     name: Name
     url: https://github.com/username
 
