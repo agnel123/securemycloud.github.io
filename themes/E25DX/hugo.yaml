@@ -33,10 +33,10 @@ markup:
 params:
   project:
     # To omit the startYear, put a ~ in its place.
-    # startYear: 2022
+    startYear: 2022
     presentYear: 2025
-    # github:
-    #   repo: username/repo
+    github:
+      repo: username/repo
     themeColor:
       light: '#ffffff'
       dark: '#101010'
