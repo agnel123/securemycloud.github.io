@@ -8,7 +8,7 @@ aliases:
 
 ## About me
 
-> �‍💻 I am an expat working in Singapore as a Go Backend and DevOps Engineer. Feel free to reach out if you find any mistakes or anything that needs to be changed, including spelling or grammar errors. Alternatively, you can create a pull request, open an issue, or [share your awesome ideas in this gist](https://gist.github.com/dumindu/00a0be2d175ed5ff3bc3c17bbf1ca5b6). Good luck with learning Rust! hello world! you are here again!hello world 2025" are you readY?
+> �‍💻 I'm a cloud security expert who loves to share knowledge and eager to learn new cloud security stuff from people!
 
 Secure your cloud data and build stronger security controls!
 
