@@ -20,6 +20,4 @@ Secure your cloud data and build stronger security controls!
 
 ## Overview
 
-This publication has its origins in the posts I authored on Medium at https://medium.com/learning-rust. However, please note that I have ceased updating the Medium posts. All current and future updates, new content, code, and grammar fixes will be exclusively maintained and released here, https://learning-rust.github.io. 
-
-[![Learning Rust @Medium](/docs/learning_rust_medium.png)](https://medium.com/learning-rust)
+securemycloud.org is a cloud security–focused website that explains how to design, implement, and operate secure cloud environments across all major providers like AWS, Azure, and Google Cloud. The site will break down complex security concepts—such as identity and access management, data protection, network security, zero trust, and compliance—into simple, practical explanations that anyone can understand. It will share real-world examples, best practices, and lessons learned from building security from scratch, helping engineers, architects, and security teams make better decisions and avoid common mistakes when securing modern cloud platforms.
