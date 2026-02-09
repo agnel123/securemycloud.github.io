@@ -12,7 +12,7 @@ aliases:
 
 Secure your cloud data and build stronger security controls!
 
-[![linkedin](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=for-the-badge&logo=rust&label=learning-rust.github.io&logoColor=333333&labelColor=f9f9f9&color=F46623)](https://www.linkedin.com/in/agnelamodia)
+[![linkedin](https://www.linkedin.com/in/agnelamodia)
 [![learning-cloud-native-go.github.io](https://img.shields.io/github/stars/learning-cloud-native-go/learning-cloud-native-go.github.io?style=for-the-badge&logo=go&logoColor=333333&label=learning-cloud-native-go.github.io&labelColor=f9f9f9&color=00ADD8)](https://learning-cloud-native-go.github.io)
 
 [![github.com](https://img.shields.io/badge/dumindu-866ee7?style=for-the-badge&logo=GitHub&logoColor=333333&labelColor=f9f9f9)](https://github.com/dumindu)
