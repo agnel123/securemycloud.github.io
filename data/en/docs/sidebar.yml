@@ -8,6 +8,10 @@
     - title: What is AWS Security
     - title: Understand IAM Policies Better
     - title: Build Security Controls Effectively
+    
+- title: 2026
+  pages:    
+    - title: Why Zero Trust Still Requires Trust
 
 - title: Philosophy
   pages:    
